@@ -10,7 +10,7 @@ public class LongExample {
 		long var4=10000000L;
 
 			System.out.println(var1);
-			System.out.println(var2);
+			System.out.print(var2+"\n");
 			System.out.println(var4);
 		
 	}
