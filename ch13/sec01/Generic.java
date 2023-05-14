@@ -13,7 +13,6 @@ public class Generic {
 		int value =box2.content;
 		System.out.println(str);
 		
-		
 
 	}
 
